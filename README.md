@@ -14,7 +14,7 @@ Số lượng bản ghi (Records): 9,994 dòng (tương ứng với 9,994 mặt 
 
 1. Phân tích chi tiết các trường (Cột) dữ liệu
 
-| STT | Tên trường (Column) | Kiểu dữ liệu        | Số record NaN | Ý nghĩa trong chủ đề                                                                                                                             | Thương mại điện tử                                                                      |
+| STT | Tên trường (Column) | Kiểu dữ liệu        | Số record NaN | Ý nghĩa trong chủ đề Thương mại điện tử                                                                                                          |
 | --- | ------------------- | ------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | 1   | Row ID              | Số nguyên (Integer) | 0             | Số thứ tự của dòng dữ liệu (Dùng để định danh duy nhất mỗi hàng).                                                                                | Định danh duy nhất (khóa chính)                                                         |
 | 2   | Order ID            | Chuỗi (String)      | 0             | Mã đơn hàng. Một đơn hàng có thể chứa nhiều sản phẩm khác nhau (chung một Mã đơn hàng nhưng khác dòng).                                          |

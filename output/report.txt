@@ -1,0 +1,41 @@
+PHAN TICH DU LIEU THUONG MAI DIEN TU
+==================================================
+
+1. TONG QUAN DU LIEU
+So luong ban ghi: 9994
+So luong thuoc tinh: 25
+So thanh pho: 531
+So khu vuc: 4
+
+2. TOP THANH PHO NHIEU DON HANG
+City
+New York City    915
+Los Angeles      747
+Philadelphia     537
+San Francisco    510
+Seattle          428
+Houston          377
+Chicago          314
+Columbus         222
+San Diego        170
+Springfield      163
+dtype: int64
+
+3. PHAN BO DON HANG THEO REGION
+Region
+Central    2323
+East       2848
+South      1620
+West       3203
+dtype: int64
+
+4. THOI GIAN GIAO HANG TRUNG BINH
+3.96 ngay
+
+5. DE XUAT MACHINE LEARNING
+- XGBoost Regressor
+- Random Forest
+- Prophet Forecasting
+
+6. KET LUAN
+Du lieu phu hop cho bai toan du bao nhu cau giao hang va mo rong logistics.
